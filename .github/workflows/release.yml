@@ -1,4 +1,4 @@
-name: Nerdminer Release
+name: Nerdminer Release1
 
 on:
   push:
